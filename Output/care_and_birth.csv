@@ -1,0 +1,411 @@
+Location,Anatal_care%,Period,Value
+Saudi Arabia,88.8,2023,99.8
+Burundi,34.9,2022,75.2
+Bolivia (Plurinational State of),81.3,2022,71.5
+Mexico,89.6,2022,87.5
+Estonia,96.6,2022,99.1
+Malaysia,98.1,2022,99.8
+Burundi,35.9,2021,76.5
+Paraguay,79.6,2021,91.2
+Bolivia (Plurinational State of),81.5,2021,94.3
+Colombia,81.6,2021,97.5
+Saint Kitts and Nevis,85.4,2021,100.0
+Georgia,86.7,2021,99.8
+Mexico,88.5,2021,85.1
+Saint Lucia,90.0,2021,100.0
+Italy,91.0,2021,99.4
+Brazil,92.3,2021,98.2
+Malta,93.8,2021,99.8
+Australia,94.3,2021,98.7
+Costa Rica,94.6,2021,98.8
+United States of America,95.4,2021,98.6
+Estonia,96.5,2021,99.0
+Slovakia,96.9,2021,98.0
+Uruguay,97.1,2021,100.0
+Finland,98.4,2021,99.5
+United Arab Emirates,98.6,2021,100.0
+Burundi,40.7,2020,87.4
+Bolivia (Plurinational State of),66.6,2020,73.6
+Grenada,76.0,2020,100.0
+Paraguay,78.3,2020,91.2
+Colombia,80.2,2020,97.8
+New Zealand,81.1,2020,94.5
+Georgia,85.2,2020,99.8
+Mexico,87.8,2020,88.7
+Panama,88.2,2020,95.0
+Italy,89.4,2020,99.8
+Barbados,90.0,2020,98.4
+Brazil,91.7,2020,98.4
+Saint Lucia,93.0,2020,100.0
+Australia,94.2,2020,98.8
+Dominica,95.0,2020,100.0
+United States of America,95.6,2020,99.1
+Slovakia,95.7,2020,98.2
+Estonia,96.3,2020,99.6
+Uruguay,96.6,2020,100.0
+Finland,98.4,2020,99.6
+Seychelles,99.0,2020,99.5
+Burundi,42.3,2019,98.6
+Oman,73.9,2019,98.6
+Poland,79.23633899,2019,99.8
+Saudi Arabia,79.9,2019,94.8
+Bahamas,81.2,2019,99.0
+Bolivia (Plurinational State of),81.9,2019,80.6
+Paraguay,82.3,2019,92.2
+Colombia,83.9,2019,98.8
+Georgia,84.9,2019,99.8
+Panama,87.1,2019,95.0
+Dominica,89.0,2019,100.0
+Italy,89.4,2019,99.8
+Mexico,89.6,2019,89.4
+Brazil,92.7,2019,98.4
+Barbados,93.0,2019,98.0
+Saint Lucia,93.0,2019,100.0
+United States of America,95.8,2019,99.0
+Estonia,96.2,2019,99.7
+Slovakia,96.2,2019,98.3
+Uruguay,96.5,2019,100.0
+Singapore,97.4,2019,99.6
+Croatia,97.96,2019,99.9
+Finland,98.7,2019,99.5
+Seychelles,99.0,2019,98.8
+Burundi,40.5,2018,86.2
+Grenada,73.0,2018,100.0
+Oman,76.3,2018,98.6
+Georgia,81.1,2018,99.8
+El Salvador,82.0,2018,99.9
+Paraguay,83.0,2018,97.7
+Dominica,84.0,2018,100.0
+Poland,84.54340849,2018,99.8
+Bolivia (Plurinational State of),85.2,2018,83.1
+Venezuela (Bolivarian Republic of),85.2,2018,98.7
+Italy,88.1,2018,99.9
+Bahamas,88.2,2018,99.0
+Mexico,89.8,2018,92.1
+Barbados,90.0,2018,99.0
+Brazil,92.2,2018,98.8
+Australia,94.0,2018,98.7
+Guyana,96.0,2018,95.1
+United States of America,96.0,2018,99.1
+Slovakia,96.5,2018,98.0
+Uruguay,96.7,2018,100.0
+Singapore,97.1,2018,99.6
+Finland,98.2,2018,99.6
+Estonia,98.5,2018,99.6
+Iceland,98.7,2018,98.2
+Trinidad and Tobago,100.0,2017,100.0
+Nicaragua,63.0,2017,94.1
+Grenada,67.0,2017,100.0
+Paraguay,75.2,2017,97.3
+Georgia,76.3,2017,99.9
+Oman,77.1,2017,98.7
+El Salvador,82.0,2017,99.9
+Antigua and Barbuda,83.3,2017,100.0
+Venezuela (Bolivarian Republic of),83.8,2017,99.1
+Dominica,84.7,2017,100.0
+Bolivia (Plurinational State of),85.3,2017,85.4
+Poland,86.14253378,2017,99.8
+Italy,86.5,2017,99.9
+Colombia,87.7,2017,99.3
+Russian Federation,88.0,2017,99.7
+Czechia,88.9,2017,99.8
+Mexico,90.0,2017,96.6
+Brazil,91.7,2017,98.7
+Australia,94.0,2017,99.4
+Estonia,95.6,2017,99.5
+United States of America,96.0,2017,99.1
+Uruguay,96.5,2017,100.0
+Slovakia,96.6,2017,98.8
+Singapore,96.8,2017,99.6
+Croatia,96.91,2017,99.9
+Guyana,97.1,2017,96.7
+Finland,97.7,2017,99.6
+Iceland,97.9,2017,98.0
+Brunei Darussalam,100.0,2016,100.0
+Trinidad and Tobago,100.0,2016,100.0
+Grenada,59.8,2016,99.3
+Nicaragua,68.0,2016,94.1
+Dominica,70.0,2016,100.0
+Oman,74.5,2016,98.7
+El Salvador,75.1,2016,99.9
+Costa Rica,76.6,2016,98.8
+Paraguay,77.7,2016,95.5
+Georgia,81.2,2016,99.9
+Venezuela (Bolivarian Republic of),84.6,2016,99.3
+Italy,85.3,2016,99.9
+Bahamas,88.1,2016,99.0
+Poland,88.49876464,2016,99.8
+Mexico,89.5,2016,98.0
+Bolivia (Plurinational State of),89.9,2016,89.8
+Brazil,91.3,2016,98.6
+Estonia,92.2,2016,99.7
+Australia,94.0,2016,98.8
+Slovakia,96.0,2016,98.1
+United States of America,96.2,2016,99.1
+Uruguay,96.4,2016,100.0
+Croatia,96.7,2016,99.9
+Singapore,96.7,2016,99.7
+Guyana,97.0,2016,94.3
+Malaysia,97.4,2016,99.5
+Barbados,97.5,2016,99.1
+Finland,97.5,2016,99.6
+Iceland,97.7,2016,97.9
+France,99.2,2016,97.4
+Trinidad and Tobago,100.0,2015,100.0
+Nicaragua,72.0,2015,94.0
+El Salvador,74.0,2015,99.9
+Oman,76.5,2015,98.7
+Paraguay,77.4,2015,96.3
+Bahamas,83.9,2015,98.0
+Venezuela (Bolivarian Republic of),86.6,2015,99.3
+Poland,86.81348213,2015,99.9
+Italy,87.3,2015,99.9
+Georgia,88.3,2015,99.9
+Dominica,89.6,2015,100.0
+Brazil,90.9,2015,98.2
+Croatia,90.93,2015,99.9
+Guyana,92.9,2015,95.8
+Estonia,94.4,2015,99.7
+Australia,95.0,2015,98.8
+Slovakia,95.1,2015,97.0
+Uruguay,96.1,2015,99.9
+United States of America,96.3,2015,99.1
+Singapore,96.6,2015,99.7
+Barbados,97.0,2015,99.0
+Finland,98.1,2015,99.7
+Iceland,98.1,2015,98.2
+United Arab Emirates,99.9,2015,99.9
+Antigua and Barbuda,100.0,2014,100.0
+Bahrain,100.0,2014,99.8
+Trinidad and Tobago,100.0,2014,100.0
+Nicaragua,71.0,2014,93.4
+Oman,71.3,2014,99.1
+Paraguay,78.3,2014,96.4
+Bahamas,83.1,2014,98.9
+Georgia,86.9,2014,99.9
+Venezuela (Bolivarian Republic of),86.9,2014,99.5
+Poland,87.26837356,2014,99.9
+Italy,87.3,2014,99.9
+Colombia,87.9,2014,98.9
+Brazil,90.0,2014,98.4
+Croatia,92.4,2014,99.9
+Guyana,94.0,2014,85.7
+Kyrgyzstan,94.6,2014,98.4
+Australia,95.3,2014,99.8
+Uruguay,95.9,2014,99.9
+Slovakia,96.2,2014,98.3
+United States of America,96.3,2014,98.5
+Czechia,96.4,2014,99.8
+Estonia,96.8,2014,99.7
+Singapore,96.8,2014,99.8
+Barbados,96.9,2014,99.8
+Finland,98.0,2014,99.7
+Iceland,98.3,2014,97.8
+United Arab Emirates,99.9,2014,99.9
+Bahrain,100.0,2013,99.8
+Cuba,100.0,2013,99.9
+Bolivia (Plurinational State of),58.8,2013,83.9
+Nicaragua,74.9,2013,92.4
+Paraguay,76.7,2013,96.8
+Oman,79.2,2013,98.6
+Ecuador,79.5,2013,93.6
+Georgia,84.6,2013,99.9
+Bahamas,85.0,2013,98.6
+Colombia,86.5,2013,98.7
+Italy,86.5,2013,99.9
+Poland,88.58650065,2013,99.9
+Brazil,88.9,2013,98.0
+Croatia,92.7,2013,99.9
+Fiji,93.6,2013,98.8
+United States of America,93.6,2013,99.2
+Australia,95.0,2013,99.0
+Guyana,95.1,2013,98.3
+Czechia,95.6,2013,99.8
+Slovakia,96.0,2013,98.6
+Singapore,96.6,2013,99.8
+Estonia,97.3,2013,99.7
+Barbados,98.0,2013,98.6
+Finland,98.6,2013,99.7
+Iceland,98.7,2013,98.1
+United Arab Emirates,99.9,2013,99.9
+Bahrain,100.0,2012,99.8
+Cuba,100.0,2012,99.9
+Trinidad and Tobago,100.0,2012,100.0
+Venezuela (Bolivarian Republic of),61.0,2012,96.0
+Ecuador,79.5,2012,92.1
+Oman,80.4,2012,98.6
+Oman,93.8,2012,98.6
+Barbados,81.0,2012,98.9
+Georgia,84.2,2012,99.8
+Colombia,84.8,2012,98.7
+Poland,85.12802071,2012,99.9
+Brazil,88.7,2012,99.0
+Bahamas,92.0,2012,98.9
+Dominican Republic,92.9,2012,98.8
+Brunei Darussalam,93.2,2012,99.8
+Uruguay,94.2,2012,99.9
+Croatia,94.45,2012,99.9
+Australia,94.6,2012,99.2
+Guyana,94.7,2012,97.3
+Slovakia,95.2,2012,99.5
+Czechia,95.6,2012,99.9
+Singapore,96.3,2012,99.8
+United States of America,96.6,2012,99.3
+Republic of Korea,96.8,2012,99.8
+Estonia,97.4,2012,99.8
+Iceland,98.6,2012,97.8
+Finland,98.8,2012,99.8
+Bahrain,100.0,2011,99.6
+Brunei Darussalam,100.0,2011,99.7
+Cuba,100.0,2011,99.9
+Venezuela (Bolivarian Republic of),47.0,2011,98.1
+Bolivia (Plurinational State of),58.5,2011,84.0
+Georgia,81.6,2011,99.8
+Oman,83.2,2011,98.6
+Italy,85.9,2011,99.9
+Bahamas,86.0,2011,99.1
+Poland,86.79050321,2011,99.9
+Barbados,89.0,2011,100.0
+Brazil,89.0,2011,99.0
+Uruguay,90.9,2011,99.5
+Australia,94.4,2011,99.1
+Slovakia,94.6,2011,99.0
+Croatia,94.89,2011,99.9
+Czechia,95.2,2011,99.9
+Singapore,96.0,2011,99.8
+United States of America,96.6,2011,99.3
+Estonia,96.8,2011,99.7
+Iceland,98.2,2011,97.9
+Finland,98.7,2011,99.8
+Antigua and Barbuda,100.0,2010,100.0
+Bahrain,100.0,2010,99.3
+Palau,81.0,2010,99.6
+Georgia,83.1,2010,99.6
+Italy,84.6,2010,99.9
+Oman,85.3,2010,98.6
+Poland,85.36860808,2010,99.9
+Bahamas,86.0,2010,99.1
+Brazil,90.2,2010,98.9
+Australia,90.4,2010,99.1
+Uruguay,91.1,2010,99.8
+Slovakia,92.7,2010,99.2
+Croatia,94.19,2010,99.9
+Czechia,94.8,2010,99.7
+Singapore,96.1,2010,99.8
+United States of America,96.6,2010,99.4
+Estonia,97.1,2010,99.8
+Iceland,98.1,2010,98.2
+France,98.9,2010,97.5
+Finland,99.1,2010,99.8
+Brunei Darussalam,100.0,2009,99.9
+Georgia,78.5,2009,99.7
+Poland,83.9904456,2009,99.7
+Italy,84.2,2009,99.8
+Oman,85.0,2009,98.6
+Bahamas,86.0,2009,98.9
+Brazil,89.4,2009,98.9
+Uruguay,91.1,2009,99.7
+Australia,91.2,2009,99.1
+Slovakia,91.5,2009,99.5
+Croatia,92.19,2009,99.9
+Czechia,94.7,2009,99.6
+Guyana,95.7,2009,87.4
+Singapore,95.8,2009,99.8
+Estonia,97.2,2009,99.7
+Republic of Korea,97.4,2009,99.9
+United States of America,97.4,2009,99.3
+Iceland,98.2,2009,98.8
+Finland,99.1,2009,99.8
+Saint Vincent and the Grenadines,99.5,2009,98.9
+Georgia,71.8,2008,99.6
+Bahamas,77.8,2008,98.5
+Italy,84.6,2008,99.8
+Oman,89.2,2008,98.6
+Brazil,89.3,2008,98.8
+Uruguay,89.5,2008,99.6
+Australia,92.0,2008,99.1
+Croatia,92.54,2008,99.9
+Czechia,95.0,2008,99.6
+Singapore,95.5,2008,99.8
+United States of America,96.3,2008,99.3
+Estonia,96.9,2008,99.7
+Iceland,98.3,2008,98.7
+Finland,99.3,2008,99.8
+Bahrain,100.0,2007,97.4
+Georgia,70.7,2007,99.4
+Italy,84.4,2007,99.6
+Oman,86.3,2007,99.0
+Brazil,88.7,2007,98.6
+Uruguay,89.0,2007,98.6
+Australia,91.9,2007,99.2
+Singapore,95.1,2007,99.7
+Czechia,95.4,2007,99.7
+Estonia,96.9,2007,99.7
+Bahamas,98.0,2007,98.4
+Iceland,98.6,2007,98.9
+Finland,99.3,2007,99.8
+Georgia,68.0,2006,98.8
+Italy,84.5,2006,99.8
+Bahamas,87.9,2006,99.0
+Brazil,87.9,2006,97.0
+Uruguay,89.0,2006,99.9
+Singapore,95.0,2006,99.8
+Czechia,96.1,2006,99.7
+Estonia,96.8,2006,99.7
+Iceland,99.0,2006,98.9
+Finland,99.3,2006,99.8
+Bahrain,100.0,2005,97.5
+Georgia,65.8,2005,98.3
+Bahamas,71.3,2005,98.7
+Italy,82.9,2005,99.8
+Brazil,86.7,2005,98.6
+Uruguay,88.7,2005,99.9
+Iran (Islamic Republic of),94.3,2005,97.3
+Estonia,96.2,2005,99.7
+Czechia,96.6,2005,99.8
+Iceland,98.4,2005,99.0
+Finland,99.2,2005,99.9
+Georgia,59.4,2004,97.5
+Bahamas,81.6,2004,98.0
+Italy,84.5,2004,99.8
+Brazil,86.0,2004,98.6
+Uruguay,88.7,2004,99.5
+Maldives,91.0,2004,84.0
+Estonia,96.0,2004,99.8
+Czechia,97.4,2004,99.8
+Iceland,98.8,2004,99.4
+Finland,99.3,2004,99.8
+Georgia,60.6,2003,97.2
+Italy,68.1,2003,99.6
+Brazil,84.7,2003,98.4
+Uruguay,87.0,2003,99.7
+United States of America,93.6,2003,99.3
+Estonia,95.5,2003,99.5
+Czechia,97.7,2003,99.8
+Iceland,99.0,2003,99.4
+Finland,99.3,2003,99.9
+Georgia,61.3,2002,97.4
+Italy,64.4,2002,99.6
+Brazil,83.1,2002,98.5
+Uruguay,86.3,2002,99.7
+United States of America,93.3,2002,99.5
+Estonia,94.0,2002,99.6
+Czechia,97.7,2002,99.8
+Iceland,98.8,2002,99.4
+Finland,99.4,2002,99.9
+Georgia,59.3,2001,96.6
+Brazil,80.8,2001,98.3
+Uruguay,85.0,2001,99.6
+United States of America,92.7,2001,99.4
+Estonia,94.2,2001,99.6
+Czechia,97.9,2001,99.8
+Iceland,98.8,2001,99.5
+Finland,99.5,2001,99.9
+Bahrain,100.0,2000,97.7
+Georgia,61.6,2000,95.5
+Brazil,79.3,2000,98.6
+Uruguay,79.7,2000,99.7
+United States of America,92.1,2000,99.4
+Estonia,94.0,2000,99.6
+Finland,99.3,2000,99.9
+Lebanon,80.9,1999-2000,99.9
