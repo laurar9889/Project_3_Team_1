@@ -1,4 +1,4 @@
-IndicatorCode,Indicator,Patents_Continent_Code,ParentLocation_Continent,Country_Code,Country,Gender,Age_Group,Fact_Value_%,FactComments,Language_Code,Starting_Year,Year_Ending
+IndicatorCode,Indicator,Patents_Continent_Code,ParentLocation_Continent,Country_Code,Country,Gender,Age_Group,Planning_Value_Rate,FactComments,Language_Code,Starting_Year,Year_Ending
 SDGFPALL,Women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (%),AFR,Africa,UGA,Uganda,Female,15-49 years,65.5,The global indicator represents all women of reproductive age. This survey estimate represents women who are married or in a union. Uganda 2021 PMA Survey Phase 2,EN,2021,0
 SDGFPALL,Women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (%),AFR,Africa,NER,Niger,Female,15-49 years,36.9,Niger 2021 PMA Survey Phase 1,EN,2020,2021
 SDGFPALL,Women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (%),AFR,Africa,BFA,Burkina Faso,Female,15-49 years,58.2,Burkina Faso 2021 PMA Survey Phase 2,EN,2020,2021
