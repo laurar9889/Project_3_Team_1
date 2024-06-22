@@ -1,0 +1,439 @@
+ParentLocation,Location,Age-group,Adolescent_birth_rate,FactComments,Starting_Year,Year_Ending,Period_Range
+Europe,Croatia,10-14 years,0.0,Registration National Statistics,2023,2023,2021-2023
+Europe,Croatia,15-19 years,6.7,Registration National Statistics,2023,2023,2021-2023
+Eastern Mediterranean,Yemen,15-19 years,77.0,Yemen 2022-2023 Multiple Indicator Cluster Survey,2023,2023,2021-2023
+Global,"China, Macao Special Administrative Region",10-14 years,0.0,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Denmark,10-14 years,0.0,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Finland,10-14 years,0.0,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Kazakhstan,10-14 years,0.0,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Eastern Mediterranean,Kuwait,10-14 years,0.0,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Montenegro,10-14 years,0.0,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Western Pacific,Niue,10-14 years,0.0,Registration National Statistics,2022,2022,2021-2023
+Western Pacific,Niue,15-19 years,0.0,Registration National Statistics,2022,2022,2021-2023
+Europe,Norway,10-14 years,0.0,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Eastern Mediterranean,Oman,10-14 years,0.0,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Western Pacific,Singapore,10-14 years,0.0,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Sweden,10-14 years,0.0,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Switzerland,10-14 years,0.0,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Uzbekistan,10-14 years,0.0,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Western Pacific,Mongolia,10-14 years,0.1,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Western Pacific,New Zealand,10-14 years,0.1,Registration National Statistics,2022,2022,2021-2023
+Americas,Puerto Rico,10-14 years,0.1,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Russian Federation,10-14 years,0.1,Registration National Statistics,2022,2022,2021-2023
+Americas,United States of America,10-14 years,0.2,Registration National Statistics,2022,2022,2021-2023
+Global,"China, Macao Special Administrative Region",15-19 years,0.3,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,North Macedonia,10-14 years,0.3,Registration National Statistics,2022,2022,2021-2023
+Western Pacific,Republic of Korea,15-19 years,0.4,Registration National Statistics,2022,2022,2021-2023
+Africa,Mauritius,10-14 years,0.7,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Africa,Seychelles,10-14 years,1.0,Registration National Statistics,2022,2022,2021-2023
+Americas,Peru,10-14 years,1.1,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Global,"China, Hong Kong Special Administrative Region",15-19 years,1.2,Registration National Statistics,2022,2022,2021-2023
+Americas,Costa Rica,10-14 years,1.2,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Denmark,15-19 years,1.2,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Norway,15-19 years,1.4,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Switzerland,15-19 years,1.4,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Bulgaria,10-14 years,1.6,Registration National Statistics,2022,2022,2021-2023
+Western Pacific,New Zealand,15-19 years,11.1,Registration National Statistics,2022,2022,2021-2023
+Europe,Türkiye,15-19 years,12.0,Registration National Statistics,2022,2022,2021-2023
+Americas,Puerto Rico,15-19 years,13.1,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Russian Federation,15-19 years,13.4,Registration National Statistics,2022,2022,2021-2023
+Americas,United States of America,15-19 years,13.5,Registration National Statistics,2022,2022,2021-2023
+Europe,North Macedonia,15-19 years,14.0,Registration National Statistics,2022,2022,2021-2023
+Americas,"Bonaire, Saint Eustatius and Saba",15-19 years,14.4,Registration National Statistics,2022,2022,2021-2023
+Europe,Kazakhstan,15-19 years,19.7,Registration National Statistics,2022,2022,2021-2023
+Africa,Mauritius,15-19 years,19.9,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Sweden,15-19 years,2.0,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Eastern Mediterranean,Kuwait,15-19 years,2.1,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Americas,Colombia,10-14 years,2.3,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Western Pacific,Singapore,15-19 years,2.7,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Western Pacific,Mongolia,15-19 years,21.1,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Georgia,15-19 years,21.9,Registration National Statistics,2022,2022,2021-2023
+Americas,Costa Rica,15-19 years,26.3,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Eastern Mediterranean,United Arab Emirates,15-19 years,3.0,Estimate National statistics,2022,2022,2021-2023
+Europe,Finland,15-19 years,3.3,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Kyrgyzstan,15-19 years,30.0,Registration National Statistics,2022,2022,2021-2023
+Americas,Peru,15-19 years,33.7,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Uzbekistan,15-19 years,36.1,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Azerbaijan,15-19 years,37.3,Registration National Statistics,2022,2022,2021-2023
+Europe,Bulgaria,15-19 years,38.7,Registration National Statistics,2022,2022,2021-2023
+Americas,Nicaragua,10-14 years,4.8,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Africa,Seychelles,15-19 years,46.0,Registration National Statistics,2022,2022,2021-2023
+Americas,Colombia,15-19 years,47.2,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Eastern Mediterranean,Oman,15-19 years,5.9,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Western Pacific,Malaysia,15-19 years,6.0,Registration National Statistics,2022,2022,2021-2023
+Europe,Poland,15-19 years,6.0,Registration National Statistics,2022,2022,2021-2023
+Europe,Lithuania,15-19 years,6.2,Registration National Statistics,2022,2022,2021-2023
+Western Pacific,Australia,15-19 years,6.8,Registration National Statistics,2022,2022,2021-2023
+South-East Asia,Bangladesh,15-19 years,68.0,Bangladesh Sample Vital Registration System,2022,2022,2021-2023
+Europe,Czechia,15-19 years,7.2,Registration National Statistics,2022,2022,2021-2023
+Americas,Nicaragua,15-19 years,79.4,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Montenegro,15-19 years,8.6,Registration National Statistics & WPP2022,2022,2022,2021-2023
+Europe,Latvia,15-19 years,8.8,Registration National Statistics,2022,2022,2021-2023
+Europe,Austria,10-14 years,0.0,Registration Eurostat,2021,2021,2021-2023
+Europe,Azerbaijan,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Belgium,10-14 years,0.0,Registration Eurostat,2021,2021,2021-2023
+Americas,Bermuda,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+South-East Asia,Bhutan,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Global,"China, Hong Kong Special Administrative Region",10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Cyprus,10-14 years,0.0,Registration Eurostat,2021,2021,2021-2023
+Europe,Faroe Islands,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Iceland,10-14 years,0.0,Registration Eurostat,2021,2021,2021-2023
+Europe,Ireland,10-14 years,0.0,Registration Eurostat,2021,2021,2021-2023
+Europe,Israel,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Italy,10-14 years,0.0,Registration Eurostat,2021,2021,2021-2023
+Western Pacific,Japan,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Kyrgyzstan,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Liechtenstein,10-14 years,0.0,Registration Eurostat,2021,2021,2021-2023
+Europe,Luxembourg,10-14 years,0.0,Registration Eurostat,2021,2021,2021-2023
+Europe,Malta,10-14 years,0.0,Registration Eurostat,2021,2021,2021-2023
+Americas,Martinique,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Netherlands (Kingdom of the),10-14 years,0.0,Registration Eurostat,2021,2021,2021-2023
+Western Pacific,New Caledonia,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Poland,10-14 years,0.0,Registration Eurostat,2021,2021,2021-2023
+Eastern Mediterranean,Qatar,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Western Pacific,Republic of Korea,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Republic of Moldova,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Türkiye,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Eastern Mediterranean,Tunisia,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Eastern Mediterranean,United Arab Emirates,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,United Kingdom of Great Britain and Northern Ireland,10-14 years,0.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Western Pacific,Australia,10-14 years,0.1,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Americas,Canada,10-14 years,0.1,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Czechia,10-14 years,0.1,Registration Eurostat,2021,2021,2021-2023
+Europe,Estonia,10-14 years,0.1,Registration Eurostat,2021,2021,2021-2023
+Europe,France,10-14 years,0.1,Registration Eurostat,2021,2021,2021-2023
+Western Pacific,French Polynesia,10-14 years,0.1,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Georgia,10-14 years,0.1,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Germany,10-14 years,0.1,Registration Eurostat,2021,2021,2021-2023
+Europe,Latvia,10-14 years,0.1,Registration Eurostat,2021,2021,2021-2023
+Europe,Lithuania,10-14 years,0.1,Registration Eurostat,2021,2021,2021-2023
+Western Pacific,Malaysia,10-14 years,0.1,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Portugal,10-14 years,0.1,Registration Eurostat,2021,2021,2021-2023
+Africa,Reunion,10-14 years,0.1,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Slovenia,10-14 years,0.1,Registration Eurostat,2021,2021,2021-2023
+Europe,Spain,10-14 years,0.1,Registration Eurostat,2021,2021,2021-2023
+Europe,Ukraine,10-14 years,0.1,Registration Eurostat,2021,2021,2021-2023
+Americas,Guadeloupe,10-14 years,0.2,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Hungary,10-14 years,0.2,Registration Eurostat,2021,2021,2021-2023
+Africa,Rwanda,10-14 years,0.2,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Serbia,10-14 years,0.2,Registration Eurostat,2021,2021,2021-2023
+Europe,Albania,10-14 years,0.3,Registration Eurostat,2021,2021,2021-2023
+Americas,Aruba,10-14 years,0.3,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Slovakia,10-14 years,0.3,Registration Eurostat,2021,2021,2021-2023
+Western Pacific,Brunei Darussalam,10-14 years,0.4,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Eastern Mediterranean,Iran (Islamic Republic of),10-14 years,0.4,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Americas,Uruguay,10-14 years,0.4,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Greece,10-14 years,0.5,Registration Eurostat,2021,2021,2021-2023
+Americas,Bermuda,15-19 years,0.6,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Americas,Turks and Caicos Islands,10-14 years,0.7,Registration National Statistics,2021,2021,2021-2023
+Americas,Argentina,10-14 years,0.8,Registration National Statistics & WPP2022,2021,2021,2021-2023
+South-East Asia,Thailand,10-14 years,0.8,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Americas,Belize,10-14 years,0.9,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Americas,French Guiana,10-14 years,0.9,Registration UNSD,2021,2021,2021-2023
+Europe,Liechtenstein,15-19 years,1.0,Registration Eurostat,2021,2021,2021-2023
+Americas,Cuba,10-14 years,1.3,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Romania,10-14 years,1.4,Registration Eurostat,2021,2021,2021-2023
+Africa,Mayotte,10-14 years,1.6,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Americas,Saint Vincent and the Grenadines,10-14 years,1.8,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Americas,Suriname,10-14 years,1.8,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Americas,Guatemala,10-14 years,1.9,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Western Pacific,Wallis and Futuna Islands,15-19 years,10.0,Registration National Statistics,2021,2021,2021-2023
+Europe,Malta,15-19 years,10.3,Registration Eurostat,2021,2021,2021-2023
+South-East Asia,Bhutan,15-19 years,10.4,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Western Pacific,New Caledonia,15-19 years,10.6,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Albania,15-19 years,11.8,Registration Eurostat,2021,2021,2021-2023
+Europe,Ukraine,15-19 years,12.6,Registration Eurostat,2021,2021,2021-2023
+Europe,Armenia,15-19 years,12.8,Registration National Statistics,2021,2021,2021-2023
+Americas,Aruba,15-19 years,12.9,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Serbia,15-19 years,13.4,Registration Eurostat,2021,2021,2021-2023
+Africa,Liberia,15-19 years,130.8,Liberia 2022 Malaria Indicators Survey,2021,2021,2021-2023
+Africa,Reunion,15-19 years,15.1,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Africa,Mozambique,15-19 years,158.0,Mozambique 2022-2023 Demographic and Health Survey,2021,2021,2021-2023
+Eastern Mediterranean,Jordan,15-19 years,17.0,Jordan 2023 Demographic and Health Survey,2021,2021,2021-2023
+Americas,Turks and Caicos Islands,15-19 years,17.6,Registration National Statistics,2021,2021,2021-2023
+Eastern Mediterranean,Afghanistan,10-14 years,18.0,Afghanistan 2022-2023 Multiple Indicator Cluster Survey,2021,2021,2021-2023
+Europe,Hungary,15-19 years,18.9,Registration Eurostat,2021,2021,2021-2023
+Americas,Brazil,10-14 years,2.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Africa,Cote d'Ivoire,10-14 years,2.0,Côte d'Ivoire 2021 Census,2021,2021,2021-2023
+Africa,Ghana,10-14 years,2.0,Ghana 2022 Demographic and Health Survey,2021,2021,2021-2023
+Western Pacific,Japan,15-19 years,2.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Netherlands (Kingdom of the),15-19 years,2.0,Registration Eurostat,2021,2021,2021-2023
+Americas,Panama,10-14 years,2.1,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Africa,Cameroon,10-14 years,2.4,Cameroon 2022 Malaria Indicators Survey,2021,2021,2021-2023
+Americas,Ecuador,10-14 years,2.4,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Luxembourg,15-19 years,2.8,Registration Eurostat,2021,2021,2021-2023
+Europe,Italy,15-19 years,2.9,Registration Eurostat,2021,2021,2021-2023
+Western Pacific,French Polynesia,15-19 years,23.3,Registration National Statistics & WPP2022,2021,2021,2021-2023
+South-East Asia,Thailand,15-19 years,23.5,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Eastern Mediterranean,Iran (Islamic Republic of),15-19 years,23.8,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Slovakia,15-19 years,26.0,Registration Eurostat,2021,2021,2021-2023
+Americas,Uruguay,15-19 years,26.8,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Americas,Argentina,15-19 years,27.8,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Faroe Islands,15-19 years,3.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Iceland,15-19 years,3.3,Registration Eurostat,2021,2021,2021-2023
+Europe,Slovenia,15-19 years,3.4,Registration Eurostat,2021,2021,2021-2023
+Africa,Rwanda,15-19 years,31.3,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Romania,15-19 years,33.9,Registration Eurostat,2021,2021,2021-2023
+Americas,Saint Vincent and the Grenadines,15-19 years,37.1,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Eastern Mediterranean,Tunisia,15-19 years,4.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Austria,15-19 years,4.2,Registration Eurostat,2021,2021,2021-2023
+Europe,Ireland,15-19 years,4.4,Registration Eurostat,2021,2021,2021-2023
+Europe,Belgium,15-19 years,4.5,Registration Eurostat,2021,2021,2021-2023
+Europe,Spain,15-19 years,4.6,Registration Eurostat,2021,2021,2021-2023
+Eastern Mediterranean,Qatar,15-19 years,4.7,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Americas,Canada,15-19 years,4.9,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Eastern Mediterranean,Pakistan,15-19 years,41.0,Pakistan 2020 Demographic Survey,2021,2021,2021-2023
+Americas,Brazil,15-19 years,42.6,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Americas,Suriname,15-19 years,45.9,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Americas,Cuba,15-19 years,47.4,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Estonia,15-19 years,5.7,Registration Eurostat,2021,2021,2021-2023
+Europe,Portugal,15-19 years,5.8,Registration Eurostat,2021,2021,2021-2023
+Europe,Germany,15-19 years,5.9,Registration Eurostat,2021,2021,2021-2023
+Americas,Belize,15-19 years,51.2,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Americas,Ecuador,15-19 years,51.6,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Africa,Mayotte,15-19 years,55.1,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Western Pacific,Nauru,15-19 years,56.1,Nauru 2021 Census,2021,2021,2021-2023
+Americas,French Guiana,15-19 years,58.3,Registration UNSD,2021,2021,2021-2023
+Africa,Liberia,10-14 years,6.1,Liberia 2022 Malaria Indicators Survey,2021,2021,2021-2023
+Europe,Cyprus,15-19 years,6.4,Registration Eurostat,2021,2021,2021-2023
+Europe,France,15-19 years,6.4,Registration Eurostat,2021,2021,2021-2023
+Europe,Israel,15-19 years,6.7,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Eastern Mediterranean,Afghanistan,15-19 years,62.0,Afghanistan 2022-2023 Multiple Indicator Cluster Survey,2021,2021,2021-2023
+Africa,Ghana,15-19 years,63.0,Ghana 2022 Demographic and Health Survey,2021,2021,2021-2023
+Americas,Guatemala,15-19 years,65.2,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Africa,Mozambique,10-14 years,7.0,Mozambique 2022-2023 Demographic and Health Survey,2021,2021,2021-2023
+Europe,Greece,15-19 years,7.4,Registration Eurostat,2021,2021,2021-2023
+Americas,Guadeloupe,15-19 years,7.9,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Eastern Mediterranean,Saudi Arabia,15-19 years,8.3,Saudi Arabia 2022 Census,2021,2021,2021-2023
+Europe,United Kingdom of Great Britain and Northern Ireland,15-19 years,8.3,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Americas,Martinique,15-19 years,8.5,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Africa,Zimbabwe,15-19 years,86.8,Zimbabwe 2022 Census,2021,2021,2021-2023
+Western Pacific,Brunei Darussalam,15-19 years,9.0,Registration National Statistics & WPP2022,2021,2021,2021-2023
+Europe,Andorra,10-14 years,0.0,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Europe,Armenia,10-14 years,0.0,Registration Eurostat,2020,2020,2018-2020
+Americas,Montserrat,10-14 years,0.0,Registration National Statistics & WPP2022,2020,2020,2018-2020
+South-East Asia,Nepal,10-14 years,0.0,Nepal 2022 Demographic and Health Survey,2020,2020,2018-2020
+Western Pacific,Cambodia,10-14 years,0.1,Cambodia 2021-2022 Demographic and Health Survey,2020,2020,2018-2020
+Americas,Antigua and Barbuda,10-14 years,0.3,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Africa,Cabo Verde,10-14 years,0.4,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Americas,Chile,10-14 years,0.4,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Europe,Andorra,15-19 years,0.5,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Africa,Kenya,10-14 years,0.7,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Americas,Mexico,10-14 years,0.7,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Africa,Benin,10-14 years,0.8,Benin 2021 Multiple Indicator Cluster Survey,2020,2020,2018-2020
+Americas,Saint Lucia,10-14 years,0.8,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Africa,Burkina Faso,10-14 years,1.2,Burkina Faso 2021 Demographic and Health Survey,2020,2020,2018-2020
+Africa,United Republic of Tanzania,10-14 years,1.2,United Republic of Tanzania 2022 Demographic and Health Survey,2020,2020,2018-2020
+Africa,Nigeria,10-14 years,1.9,Nigeria 2021 Multiple Indicator Cluster Survey,2020,2020,2018-2020
+Africa,Cameroon,15-19 years,105.3,Cameroon 2022 Malaria Indicators Survey,2020,2020,2018-2020
+South-East Asia,India,15-19 years,11.3,India Sample Registration System,2020,2020,2018-2020
+Africa,United Republic of Tanzania,15-19 years,112.3,United Republic of Tanzania 2022 Demographic and Health Survey,2020,2020,2018-2020
+Americas,Montserrat,15-19 years,12.3,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Africa,Guinea,15-19 years,127.6,Guinea 2021 Malaria Indicators Survey,2020,2020,2018-2020
+Africa,Mali,15-19 years,144.8,Mali 2021 Malaria Indicators Survey,2020,2020,2018-2020
+Americas,Chile,15-19 years,15.6,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Africa,Niger,15-19 years,150.3,Niger 2021 Malaria Indicator Survey,2020,2020,2018-2020
+South-East Asia,Bangladesh,10-14 years,2.0,Bangladesh 2022 Demographic and Health Survey,2020,2020,2018-2020
+Americas,Saint Lucia,15-19 years,24.0,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Europe,Republic of Moldova,15-19 years,27.3,Estimate National statistics,2020,2020,2018-2020
+Western Pacific,Viet Nam,15-19 years,29.0,Viet Nam 2020 Annual Population Change Survey,2020,2020,2018-2020
+Africa,Niger,10-14 years,3.0,Niger 2021 Malaria Indicator Survey,2020,2020,2018-2020
+Africa,Guinea,10-14 years,3.3,Guinea 2021 Malaria Indicators Survey,2020,2020,2018-2020
+Americas,Antigua and Barbuda,15-19 years,32.5,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Africa,Cabo Verde,15-19 years,40.0,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Africa,Kenya,15-19 years,43.8,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Americas,Mexico,15-19 years,44.1,Registration National Statistics & WPP2022,2020,2020,2018-2020
+Western Pacific,Cambodia,15-19 years,48.0,Cambodia 2021-2022 Demographic and Health Survey,2020,2020,2018-2020
+Africa,Lesotho,15-19 years,49.1,Lesotho 2021 Demographic Survey,2020,2020,2018-2020
+Africa,Mali,10-14 years,5.0,Mali 2021 Malaria Indicators Survey,2020,2020,2018-2020
+Eastern Mediterranean,Egypt,15-19 years,50.0,Egypt 2021 Family Health Survey,2020,2020,2018-2020
+Western Pacific,China,15-19 years,6.1,China 2020 Census,2020,2020,2018-2020
+Americas,Panama,15-19 years,61.7,Registration National Statistics & WPP2022,2020,2020,2018-2020
+South-East Asia,Nepal,15-19 years,71.2,Nepal 2022 Demographic and Health Survey,2020,2020,2018-2020
+Africa,Nigeria,15-19 years,74.6,Nigeria 2021 Multiple Indicator Cluster Survey,2020,2020,2018-2020
+Africa,Burkina Faso,15-19 years,92.9,Burkina Faso 2021 Demographic and Health Survey,2020,2020,2018-2020
+Africa,Cote d'Ivoire,15-19 years,96.0,Côte d'Ivoire 2021 Demographic and Health Survey,2020,2020,2018-2020
+Eastern Mediterranean,Bahrain,10-14 years,0.0,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Europe,Bosnia and Herzegovina,10-14 years,0.0,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Western Pacific,Cook Islands,10-14 years,0.0,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Western Pacific,Fiji,10-14 years,0.0,Fiji 2021 Multiple Indicator Cluster Survey,2019,2019,2018-2020
+Western Pacific,Palau,10-14 years,0.0,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Europe,Tajikistan,10-14 years,0.0,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Global,Kosovo (in accordance with UN Security Council resolution 1244 (1999)),10-14 years,0.1,Registration Eurostat,2019,2019,2018-2020
+South-East Asia,Maldives,10-14 years,0.1,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Africa,Botswana,10-14 years,0.3,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Western Pacific,American Samoa,10-14 years,0.6,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Europe,San Marino,15-19 years,1.2,Registration National Statistics,2019,2019,2018-2020
+Africa,Gabon,15-19 years,100.1,Gabon 2019-2021 Demographic and Health Survey,2019,2019,2018-2020
+Africa,Algeria,15-19 years,11.0,Registration National Statistics,2019,2019,2018-2020
+Africa,Madagascar,15-19 years,143.0,Madagascar 2021 Demographic and Health Survey,2019,2019,2018-2020
+Americas,Venezuela (Bolivarian Republic of),10-14 years,2.5,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Africa,Gabon,10-14 years,2.8,Gabon 2019-2021 Demographic and Health Survey,2019,2019,2018-2020
+Western Pacific,Cook Islands,15-19 years,28.3,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Western Pacific,Fiji,15-19 years,31.0,Fiji 2021 Multiple Indicator Cluster Survey,2019,2019,2018-2020
+Western Pacific,Palau,15-19 years,34.5,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Western Pacific,American Samoa,15-19 years,36.1,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Europe,Greenland,15-19 years,37.0,Registration UNSD,2019,2019,2018-2020
+Africa,Senegal,10-14 years,4.3,Senegal 2020-2021 Malaria Indicators Survey,2019,2019,2018-2020
+Europe,Tajikistan,15-19 years,41.8,Registration National Statistics & WPP2022,2019,2019,2018-2020
+South-East Asia,Maldives,15-19 years,5.1,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Africa,Botswana,15-19 years,50.2,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Africa,Mauritania,10-14 years,6.3,Mauritania 2019-2021 Demographic and Health Survey,2019,2019,2018-2020
+Africa,Senegal,15-19 years,67.4,Senegal 2020-2021 Malaria Indicators Survey,2019,2019,2018-2020
+Africa,Madagascar,10-14 years,7.1,Madagascar 2021 Demographic and Health Survey,2019,2019,2018-2020
+Global,Kosovo (in accordance with UN Security Council resolution 1244 (1999)),15-19 years,7.6,Registration Eurostat,2019,2019,2018-2020
+Americas,Venezuela (Bolivarian Republic of),15-19 years,76.1,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Eastern Mediterranean,Bahrain,15-19 years,8.6,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Africa,Benin,15-19 years,83.9,Benin 2021 Multiple Indicator Cluster Survey,2019,2019,2018-2020
+Africa,Mauritania,15-19 years,89.6,Mauritania 2019-2021 Demographic and Health Survey,2019,2019,2018-2020
+Europe,Bosnia and Herzegovina,15-19 years,9.7,Registration National Statistics & WPP2022,2019,2019,2018-2020
+Europe,Belarus,10-14 years,0.0,Registration Eurostat,2018,2018,2018-2020
+Americas,Curaçao,10-14 years,0.0,Registration National Statistics & WPP2022,2018,2018,2018-2020
+Americas,Jamaica,10-14 years,0.0,Registration National Statistics & WPP2022,2018,2018,2018-2020
+Eastern Mediterranean,Morocco,10-14 years,0.0,Registration National Statistics & WPP2022,2018,2018,2018-2020
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",10-14 years,0.0,State of Palestine 2019-2020 MICS,2018,2018,2018-2020
+Europe,Turkmenistan,10-14 years,0.0,Turkmenistan 2019 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Western Pacific,Tuvalu,10-14 years,0.0,Tuvalu 2019-2020 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Americas,Cayman Islands,10-14 years,0.2,Registration National Statistics & WPP2022,2018,2018,2018-2020
+Europe,Greenland,10-14 years,0.2,Registration National Statistics & WPP2022,2018,2018,2018-2020
+South-East Asia,India,10-14 years,0.2,India 2019-2021 National Family Health Survey,2018,2018,2018-2020
+Western Pacific,Guam,10-14 years,0.4,Registration National Statistics & WPP2022,2018,2018,2018-2020
+Western Pacific,Samoa,10-14 years,0.4,Samoa 2019-2020 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Africa,Sao Tome and Principe,10-14 years,0.4,Sao Tome and Principe 2019 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Africa,Gambia,10-14 years,1.1,Gambia 2019-2020 Demographic and Health Survey,2018,2018,2018-2020
+Americas,Grenada,10-14 years,1.1,Registration National Statistics & WPP2022,2018,2018,2018-2020
+Americas,Guyana,10-14 years,1.3,Guyana 2019-2020 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Africa,Sierra Leone,15-19 years,101.9,Sierra Leone 2019 Demographic and Health Survey,2018,2018,2018-2020
+Europe,Belarus,15-19 years,11.6,Registration Eurostat,2018,2018,2018-2020
+Africa,Malawi,15-19 years,135.6,Malawi 2019-2020 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Africa,Chad,15-19 years,138.5,Chad 2019 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Americas,Cayman Islands,15-19 years,15.7,Registration National Statistics & WPP2022,2018,2018,2018-2020
+Americas,Curaçao,15-19 years,18.2,Registration National Statistics & WPP2022,2018,2018,2018-2020
+Africa,Central African Republic,15-19 years,184.4,Central African Republic 2018-2019 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Africa,Malawi,10-14 years,2.0,Malawi 2019-2020 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Americas,El Salvador,10-14 years,2.1,Registration National Statistics & WPP2022,2018,2018,2018-2020
+Americas,Honduras,10-14 years,2.5,Honduras 2019 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Eastern Mediterranean,Morocco,15-19 years,21.7,Registration National Statistics & WPP2022,2018,2018,2018-2020
+Europe,Turkmenistan,15-19 years,22.4,Turkmenistan 2019 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Americas,Dominican Republic,10-14 years,3.6,Dominican Republic 2019 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Africa,Chad,10-14 years,3.9,Chad 2019 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Africa,Sierra Leone,10-14 years,3.9,Sierra Leone 2019 Demographic and Health Survey,2018,2018,2018-2020
+Americas,Grenada,15-19 years,30.1,Registration National Statistics & WPP2022,2018,2018,2018-2020
+Western Pacific,Guam,15-19 years,35.1,Registration UNSD,2018,2018,2018-2020
+Americas,Jamaica,15-19 years,35.9,Registration National Statistics & WPP2022,2018,2018,2018-2020
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",15-19 years,42.8,State of Palestine 2019-2020 MICS,2018,2018,2018-2020
+Western Pacific,Tuvalu,15-19 years,43.8,Tuvalu 2019-2020 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Americas,El Salvador,15-19 years,50.1,Registration National Statistics & WPP2022,2018,2018,2018-2020
+Western Pacific,Samoa,15-19 years,54.9,Samoa 2019-2020 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Africa,Gambia,15-19 years,64.8,Gambia 2019-2020 Demographic and Health Survey,2018,2018,2018-2020
+Americas,Guyana,15-19 years,64.9,Guyana 2019-2020 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Americas,Dominican Republic,15-19 years,77.1,Dominican Republic 2019 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Africa,Central African Republic,10-14 years,8.0,Central African Republic 2018-2019 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Africa,Sao Tome and Principe,15-19 years,86.1,Sao Tome and Principe 2019 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Americas,Honduras,15-19 years,97.1,Honduras 2019 Multiple Indicator Cluster Survey,2018,2018,2018-2020
+Africa,Algeria,10-14 years,0.0,Algeria 2018-2019 Multiple Indicator Cluster Survey,2017,2017,2015-2017
+Africa,Ethiopia,10-14 years,0.5,Ethiopia 2019 Demographic and Health Survey,2017,2017,2015-2017
+Africa,Lesotho,10-14 years,0.5,Lesotho 2018 Multiple Indicator Cluster Survey,2017,2017,2015-2017
+Africa,Uganda,10-14 years,1.1,Uganda 2018-2019 Malaria Indicators Survey,2017,2017,2015-2017
+Africa,Zimbabwe,10-14 years,1.1,Zimbabwe 2019 Multiple Indicator Cluster Survey,2017,2017,2015-2017
+Eastern Mediterranean,Somalia,10-14 years,1.2,Somalia 2018-2019 Health and Demographic Survey,2017,2017,2015-2017
+Africa,Guinea-Bissau,10-14 years,1.6,Guinea-Bissau 2018-2019 Multiple Indicator Cluster Survey,2017,2017,2015-2017
+Western Pacific,Kiribati,10-14 years,1.8,Kiribati 2018-2019 Multiple Indicator Cluster Survey,2017,2017,2015-2017
+Africa,Uganda,15-19 years,111.4,Uganda 2018-2019 Malaria Indicators Survey,2017,2017,2015-2017
+Eastern Mediterranean,Somalia,15-19 years,115.6,Somalia 2018-2019 Health and Demographic Survey,2017,2017,2015-2017
+Africa,Zambia,15-19 years,134.6,Zambia 2018 Demographic and Health Survey,2017,2017,2015-2017
+Africa,Zambia,10-14 years,2.9,Zambia 2018 Demographic and Health Survey,2017,2017,2015-2017
+Western Pacific,Tonga,15-19 years,30.0,Tonga 2019 Multiple Indicator Cluster Survey,2017,2017,2015-2017
+Western Pacific,Philippines,15-19 years,47.0,Philippines 2017 Demographic and Health Survey,2017,2017,2015-2017
+Western Pacific,Kiribati,15-19 years,50.6,Kiribati 2018-2019 Multiple Indicator Cluster Survey,2017,2017,2015-2017
+Africa,Ethiopia,15-19 years,72.4,Ethiopia 2019 Demographic and Health Survey,2017,2017,2015-2017
+Africa,Comoros,15-19 years,74.4,Comoros 2017 Census,2017,2017,2015-2017
+Africa,Guinea-Bissau,15-19 years,84.5,Guinea-Bissau 2018-2019 Multiple Indicator Cluster Survey,2017,2017,2015-2017
+Western Pacific,Philippines,10-14 years,0.1,Philippines 2017 Demographic and Health Survey,2016,2016,2015-2017
+South-East Asia,Indonesia,10-14 years,0.3,Indonesia 2017 Demographic and Health Survey,2016,2016,2015-2017
+Eastern Mediterranean,Jordan,10-14 years,0.4,Jordan 2017-2018 Demographic and Health Survey,2016,2016,2015-2017
+Eastern Mediterranean,Pakistan,10-14 years,0.4,Pakistan 2017-2018 Demographic and Health Survey,2016,2016,2015-2017
+Western Pacific,Papua New Guinea,10-14 years,1.1,Papua New Guinea 2016-2018 Demographic and Health Survey,2016,2016,2015-2017
+Eastern Mediterranean,Iraq,10-14 years,1.6,Iraq 2018 Multiple Indicator Cluster Survey,2016,2016,2015-2017
+Africa,Democratic Republic of the Congo,15-19 years,109.0,Democratic Republic of the Congo 2017-2018 Multiple Indicator Cluster Survey,2016,2016,2015-2017
+Western Pacific,Lao People's Democratic Republic,10-14 years,2.6,Lao People's Democratic Republic 2017 Social Indicator Survey II,2016,2016,2015-2017
+Americas,Virgin Islands (USA),15-19 years,25.4,Registration National Statistics,2016,2016,2015-2017
+Western Pacific,Northern Mariana Islands,15-19 years,27.4,Registration National Statistics,2016,2016,2015-2017
+Africa,Togo,10-14 years,3.0,Togo 2017 Malaria Indicator Survey,2016,2016,2015-2017
+Africa,Democratic Republic of the Congo,10-14 years,3.4,Democratic Republic of the Congo 2017-2018 Multiple Indicator Cluster Survey,2016,2016,2015-2017
+South-East Asia,Indonesia,15-19 years,36.1,Indonesia 2017 Demographic and Health Survey,2016,2016,2015-2017
+Africa,Namibia,15-19 years,63.9,Namibia 2016 Inter-censal Demographic Survey,2016,2016,2015-2017
+Western Pacific,Papua New Guinea,15-19 years,67.7,Papua New Guinea 2016-2018 Demographic and Health Survey,2016,2016,2015-2017
+Eastern Mediterranean,Iraq,15-19 years,70.0,Iraq 2018 Multiple Indicator Cluster Survey,2016,2016,2015-2017
+Africa,Togo,15-19 years,79.0,Togo 2017 Multiple Indicator Cluster Survey,2016,2016,2015-2017
+Western Pacific,Lao People's Democratic Republic,15-19 years,83.4,Lao People's Democratic Republic 2017 Social Indicator Survey II,2016,2016,2015-2017
+South-East Asia,Sri Lanka,10-14 years,0.0,Registration National Statistics & WPP2022,2015,2015,2015-2017
+South-East Asia,Timor-Leste,10-14 years,0.0,Timor-Leste 2016 Demographic and Health Survey,2015,2015,2015-2017
+Africa,Burundi,10-14 years,0.7,Burundi 2016 Demographic and Health Survey,2015,2015,2015-2017
+Americas,Haiti,10-14 years,1.3,Haiti 2016-2017 Demographic and Health Survey,2015,2015,2015-2017
+Africa,South Africa,10-14 years,1.3,South Africa 2016 Demographic and Health Survey,2015,2015,2015-2017
+South-East Asia,Sri Lanka,15-19 years,16.5,Registration National Statistics & WPP2022,2015,2015,2015-2017
+Americas,Anguilla,10-14 years,2.5,Registration National Statistics & WPP2022,2015,2015,2015-2017
+Americas,Paraguay,10-14 years,3.2,Paraguay 2016 Multiple Indicator Cluster Survey,2015,2015,2015-2017
+Americas,Anguilla,15-19 years,37.2,Registration National Statistics & WPP2022,2015,2015,2015-2017
+South-East Asia,Timor-Leste,15-19 years,41.9,Timor-Leste 2016 Demographic and Health Survey,2015,2015,2015-2017
+Americas,Haiti,15-19 years,54.8,Haiti 2016-2017 Demographic and Health Survey,2015,2015,2015-2017
+Africa,Burundi,15-19 years,58.2,Burundi 2016 Demographic and Health Survey,2015,2015,2015-2017
+Americas,Bolivia (Plurinational State of),15-19 years,71.0,Bolivia 2016 Demographic and Health Survey,2015,2015,2015-2017
+Africa,South Africa,15-19 years,71.1,South Africa 2016 Demographic and Health Survey,2015,2015,2015-2017
+Americas,Paraguay,15-19 years,72.0,Paraguay 2016 Multiple Indicator Cluster Survey,2015,2015,2015-2017
+Europe,San Marino,10-14 years,0.0,Registration National Statistics & WPP2022,2014,2014,2012-2014
+South-East Asia,Myanmar,10-14 years,0.8,Myanmar 2015-2016 Demographic and Health Survey,2014,2014,2012-2014
+Africa,Angola,10-14 years,10.7,Angola 2015-2016 Demographic and Health Survey,2014,2014,2012-2014
+Africa,Angola,15-19 years,162.7,Angola 2015-2016 Demographic and Health Survey,2014,2014,2012-2014
+South-East Asia,Myanmar,15-19 years,36.5,Myanmar 2015-2016 Demographic and Health Survey,2014,2014,2012-2014
+Americas,Bahamas,10-14 years,0.3,Registration National Statistics & WPP2022,2013,2013,2012-2014
+Africa,Eswatini,10-14 years,1.2,Eswatini 2014 Multiple Indicator Cluster Survey,2013,2013,2012-2014
+Eastern Mediterranean,Libya,15-19 years,10.9,Libya 2014 National Family Health Survey,2013,2013,2012-2014
+Africa,Congo,15-19 years,111.3,Congo 2014-2015 Multiple Indicator Cluster Survey,2013,2013,2012-2014
+Western Pacific,Northern Mariana Islands,10-14 years,2.2,Registration National Statistics & WPP2022,2013,2013,2012-2014
+Eastern Mediterranean,Sudan,10-14 years,2.3,Sudan 2014 Multiple Indicator Cluster Survey,2013,2013,2012-2014
+Americas,Bahamas,15-19 years,26.3,Registration National Statistics & WPP2022,2013,2013,2012-2014
+Africa,Congo,10-14 years,6.2,Congo 2014-2015 Multiple Indicator Cluster Survey,2013,2013,2012-2014
+Western Pacific,Solomon Islands,15-19 years,78.0,Solomon Islands 2015 Demographic and Health Survey,2013,2013,2012-2014
+Eastern Mediterranean,Sudan,15-19 years,86.8,Sudan 2014 Multiple Indicator Cluster Survey,2013,2013,2012-2014
+Africa,Eswatini,15-19 years,87.1,Eswatini 2014 Multiple Indicator Cluster Survey,2013,2013,2012-2014
+Western Pacific,Viet Nam,10-14 years,0.0,Viet Nam 2013-2014 Multiple Indicator Cluster Survey,2012,2012,2012-2014
+Eastern Mediterranean,Egypt,10-14 years,0.5,Egypt 2014 Demographic and Health Survey,2012,2012,2012-2014
+Eastern Mediterranean,Yemen,10-14 years,1.0,Yemen 2013 Demographic and Health Survey,2012,2012,2012-2014
+Americas,Virgin Islands (USA),10-14 years,1.3,Registration National Statistics & WPP2022,2012,2012,2012-2014
+Africa,Namibia,10-14 years,4.0,Namibia 2013 Demographic and Health Survey,2012,2012,2012-2014
+Western Pacific,Vanuatu,15-19 years,81.0,Vanuatu 2013 Demographic and Health Survey,2012,2012,2012-2014
+Eastern Mediterranean,Djibouti,10-14 years,0.1,Djibouti 2012 Family Health Survey,2011,2011,2009-2011
+Africa,Comoros,10-14 years,1.7,Comoros 2012 Demographic and Health Survey,2011,2011,2009-2011
+Western Pacific,Tokelau,15-19 years,17.5,Tokelau 2011 Census,2011,2011,2009-2011
+Eastern Mediterranean,Djibouti,15-19 years,21.0,Djibouti 2012 Family Health Survey,2011,2011,2009-2011
+Africa,Equatorial Guinea,15-19 years,176.0,Equatorial Guinea 2011 Demographic and Health Survey,2010,2010,2009-2011
+Eastern Mediterranean,Libya,10-14 years,0.0,Registration National Statistics & WPP2022,2009,2009,2009-2011
+Western Pacific,Nauru,10-14 years,0.0,Registration National Statistics & WPP2022,2009,2009,2009-2011
+Americas,Trinidad and Tobago,10-14 years,0.5,Registration National Statistics & WPP2022,2009,2009,2009-2011
+Western Pacific,Micronesia (Federated States of),15-19 years,33.0,Micronesia (Federated States of) 2010 Census,2009,2009,2009-2011
+Americas,Trinidad and Tobago,15-19 years,36.0,Registration National Statistics & WPP2022,2009,2009,2009-2011
+South-East Asia,Democratic People's Republic of Korea,10-14 years,0.0,Registration National Statistics & WPP2022,2008,2008,2006-2008
+South-East Asia,Democratic People's Republic of Korea,15-19 years,0.6,Democratic People's Republic of Korea 2008 Census,2008,2008,2006-2008
+Africa,Eritrea,10-14 years,0.9,Eritrea 2010 Population and Health Survey,2008,2008,2006-2008
+Africa,South Sudan,15-19 years,158.1,South Sudan 2010 Household Health Survey Second Round,2008,2008,2006-2008
+Africa,South Sudan,10-14 years,6.4,South Sudan 2010 Household Health Survey Second Round,2008,2008,2006-2008
+Africa,Eritrea,15-19 years,76.0,Eritrea 2010 Population and Health Survey,2008,2008,2006-2008
+Americas,Barbados,10-14 years,1.1,Registration National Statistics & WPP2022,2007,2007,2006-2008
+Americas,British Virgin Islands,15-19 years,27.4,Registration National Statistics,2007,2007,2006-2008
+Americas,Barbados,15-19 years,47.6,Registration National Statistics & WPP2022,2007,2007,2006-2008
+Eastern Mediterranean,Syrian Arab Republic,15-19 years,54.0,Syrian Arab Republic 2009 Family Health Survey,2007,2007,2006-2008
+Western Pacific,Wallis and Futuna Islands,10-14 years,0.0,Registration National Statistics & WPP2022,2006,2006,2006-2008
+Americas,Dominica,10-14 years,0.9,Registration National Statistics & WPP2022,2006,2006,2006-2008
+Western Pacific,Micronesia (Federated States of),10-14 years,1.3,Registration Human Fertility Collection,2006,2006,2006-2008
+Americas,Bolivia (Plurinational State of),10-14 years,2.7,Bolivia 2008 Demographic and Health Survey,2006,2006,2006-2008
+Americas,Dominica,15-19 years,49.8,Registration National Statistics & WPP2022,2006,2006,2006-2008
+Eastern Mediterranean,Saudi Arabia,10-14 years,0.0,Registration National Statistics & WPP2022,2005,2005,2003-2005
+Western Pacific,Marshall Islands,10-14 years,0.1,Registration National Statistics & WPP2022,2005,2005,2003-2005
+Western Pacific,Marshall Islands,15-19 years,88.8,Registration National Statistics & WPP2022,2005,2005,2003-2005
+Eastern Mediterranean,Lebanon,10-14 years,0.0,Lebanon 2004 Family Health Survey,2003,2003,2003-2005
+Western Pacific,Tonga,10-14 years,0.0,Registration National Statistics & WPP2022,2003,2003,2003-2005
+Eastern Mediterranean,Lebanon,15-19 years,16.7,Lebanon 2004 Family Health Survey,2003,2003,2003-2005
+Americas,Saint Kitts and Nevis,15-19 years,74.1,Registration POPFAM,2001,2001,Out of Range
+Americas,Saint Kitts and Nevis,10-14 years,0.4,Registration National Statistics & WPP2022,2000,2000,Out of Range
