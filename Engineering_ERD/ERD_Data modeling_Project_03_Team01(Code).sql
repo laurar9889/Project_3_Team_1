@@ -4,78 +4,79 @@
 
 
 CREATE TABLE "Family_Planning" (
-    "IndicatorCode" object   NOT NULL,
-    "Indicator" object   NOT NULL,
-    "Patents_Continent_Code" object   NOT NULL,
-    "ParentLocation_Continent" object   NOT NULL,
-    "Country_Code" object   NOT NULL,
-    "Country" object   NOT NULL,
-    "Gender" Category   NOT NULL,
-    "Age_Group" object   NOT NULL,
-    "Fact_Value_%" float64   NOT NULL,
-    "FactComments" text   NOT NULL,
-    "Language_Code" object   NOT NULL,
+    "IndicatorCode" Varchar   NOT NULL,
+    "Indicator" Varchar   NOT NULL,
+    "Patents_Continent_Code" Varchar   NOT NULL,
+    "ParentLocation_Continent" Varchar   NOT NULL,
+    "Country_Code" Varchar   NOT NULL,
+    "Country" Varchar  NOT NULL,
+    "Gender" varchar   NOT NULL,
+    "Age_Group" Varchar  NOT NULL,
+    "Planning_Value_Rate" float   NOT NULL,
+    "FactComments" Varchar    NOT NULL,
+    "Language_Code" Varchar   NOT NULL,
     "Starting_Year" int   NOT NULL,
     "Year_Ending" int   NOT NULL,
-    "Period_Range" Var   NOT NULL,
-    CONSTRAINT "pk_Family_Planning" PRIMARY KEY (
-        "Country_Code"
-     )
+    "Period_Range" varchar   NOT NULL
+
 );
 
 CREATE TABLE "Adolescent_birth_rate" (
-    "ParentsLocation" object   NOT NULL,
-    "Location" object   NOT NULL,
-    "Age-Group" object   NOT NULL,
-    "Adolescent_birth_rate" float64   NOT NULL,
-    "FactComments" object   NOT NULL,
+    "ParentsLocation" Varchar  NOT NULL,
+    "Location" Varchar   NOT NULL,
+    "Age-Group" Varchar  NOT NULL,
+    "Adolescent_birth_rate" float  NOT NULL,
+    "FactComments" Varchar  NOT NULL,
     "Starting_Year" int   NOT NULL,
     "Year_Ending" int   NOT NULL,
-    "Period_Range" Var   NOT NULL
+    "Period_Range" Varchar   NOT NULL
 );
 
 CREATE TABLE "Antenatal_care_coverage" (
-    "IndicatorCode" object   NOT NULL,
-    "Indicator" object   NOT NULL,
-    "ParentLocation" object   NOT NULL,
-    "Location" object   NOT NULL,
-    "Anatal_care%" float64   NOT NULL,
-    "FactComments" text   NOT NULL,
+    "IndicatorCode" Varchar  NOT NULL,
+    "Indicator" Varchar   NOT NULL,
+    "ParentLocation" Varchar   NOT NULL,
+    "Location" Varchar   NOT NULL,
+    "Anatal_care%" float    NOT NULL,
+    "FactComments" Varchar    NOT NULL,
     "Starting_Year" int   NOT NULL,
     "Year_Ending" int   NOT NULL,
-    "Period_Range" var   NOT NULL
+    "Period_Range" Varchar    NOT NULL
 );
 
 CREATE TABLE "Births-attended" (
-    "IndicatorCode" object   NOT NULL,
-    "ParentLocationCode" object   NOT NULL,
-    "ParentLocation" object   NOT NULL,
-    "Location" object   NOT NULL,
-    "FactValue" float64   NOT NULL,
-    "FactComments" Text   NOT NULL,
+    "IndicatorCode" Varchar  NOT NULL,
+    "ParentLocationCode" Varchar  NOT NULL,
+    "ParentLocation" Varchar   NOT NULL,
+	"SpatialDimValueCode" Varchar   NOT NULL,
+    "Location" Varchar   NOT NULL,
+	"Period_type" Varchar   NOT NULL,
+    "skilled_personnel%" float  NOT NULL,
+    "FactComments" Varchar    NOT NULL,
+	"DateModified" Varchar   NOT NULL,
     "Starting_Year" int   NOT NULL,
     "Year_Ending" int   NOT NULL,
-    "Period_Range" Var   NOT NULL
+    "Period_Range" Varchar    NOT NULL
 );
 
 CREATE TABLE "Location_Fact_Table" (
-    "Country_Code" object   NOT NULL,
-    "Country" object   NOT NULL,
-    "Continent_Code" object   NOT NULL,
-    "Continent" object   NOT NULL,
-    "Starting_Year" int   NOT NULL,
-    "Year_Ending" int   NOT NULL,
-    CONSTRAINT "pk_Location_Fact_Table" PRIMARY KEY (
-        "Country_Code"
-     )
+    "Country_Code" VARCHAR(10) NOT NULL,
+    "Country" VARCHAR(255) NOT NULL,
+    "continent_code" VARCHAR NOT NULL,
+    "ParentLocation" VARCHAR NOT NULL,
+    PRIMARY KEY ("Country_Code"),
+    UNIQUE ("Country")
 );
+
 
 CREATE TABLE "Period" (
-    "Period_Range" Var   NOT NULL
+    "Period_Range" VARCHAR(50) NOT NULL,
+    PRIMARY KEY ("Period_Range"),
+    UNIQUE ("Period_Range")
 );
 
-ALTER TABLE "Family_Planning" ADD CONSTRAINT "fk_Family_Planning_Country" FOREIGN KEY("Country")
-REFERENCES "Location_Fact_Table" ("Country");
+ALTER TABLE "Family_Planning" ADD CONSTRAINT "fk_Family_Planning_Country_Code" FOREIGN KEY("Country_Code")
+REFERENCES "Location_Fact_Table" ("Country_Code");
 
 ALTER TABLE "Family_Planning" ADD CONSTRAINT "fk_Family_Planning_Period_Range" FOREIGN KEY("Period_Range")
 REFERENCES "Period" ("Period_Range");
@@ -97,4 +98,5 @@ REFERENCES "Location_Fact_Table" ("Country");
 
 ALTER TABLE "Births-attended" ADD CONSTRAINT "fk_Births-attended_Period_Range" FOREIGN KEY("Period_Range")
 REFERENCES "Period" ("Period_Range");
+
 

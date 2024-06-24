@@ -1,4 +1,4 @@
-﻿Country_code,country,Year_Range,ParentLocation
+﻿Country_code,country,continent_code,ParentLocation
 MAR,Morocco,EMR,Eastern Mediterranean
 AFG,Afghanistan,EMR,Eastern Mediterranean
 AGO,Angola,AFR,Africa
