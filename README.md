@@ -95,6 +95,8 @@ Environment Setup: Ensure you have Python and Jupyter Notebook installed.
 Dependencies: Install required libraries via pip: numpy, pandas, matplotlib, seaborn.
 Run Notebook: Open main.ipynb in Jupyter Notebook and run the cells sequentially.
 
+Presentation link : https://docs.google.com/presentation/d/1x9B9XUovqEVoICqrudJISOiVQhtrC1XmSFutZ8thbOo/edit#slide=id.gc6f919934_0_0
+
 Sources:
 * https://www.who.int/data/gho/data/indicators/indicator-details/GHO/married-or-in-union-women-of-reproductive-age-who-have-their-need-for-family-planning-satisfied-with-modern-methods-(-) 
 * https://www.who.int/data/gho/data/indicators/indicator-details/GHO/adolescent-birth-rate-(per-1000-women-aged-15-19-years)
