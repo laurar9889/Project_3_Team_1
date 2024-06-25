@@ -33,7 +33,7 @@ Overall Approach
 * Problem Framing: Identifying the core questions and defining key indicators.
 * Data Exploration: Understanding the datasets and identifying relevant variables.
 * Data Cleaning: Handling missing values and ensuring consistency.
-* Data Modeling: Using Python and libraries such as pandas, seaborn, and matplotlib for analysis and visualization.
+* Data Modeling: Using Python and libraries such as pandas, seaborn, Geopandas, matplotlib,webdriver and other Relevant and required libraries for analysis and visualization.
 * Data Visualization: Creating informative visuals to convey findings effectively.
 
 Time Allocation:
@@ -49,7 +49,7 @@ Data Flow: Data sourced from WHO -> Processed in Jupyter Notebook -> Stored and 
 Tools Used:
 Storage: SQL database for organized data storage and retrieval.
 Processing: Jupyter Notebook (main_file.ipynb) for data manipulation and analysis.
-Visualization: Matplotlib, Seaborn for plotting graphs and charts.
+Visualization: Matplotlib, Seaborn, Geopanda, webdriver for plotting graphs and charts.
 
 Additional Tools:
 * NumPy: For numerical operations.
@@ -63,7 +63,7 @@ Analytical Use Cases
 
 Demonstration
 * Jupyter Notebook: Demonstrates data retrieval and visualization.
-* Visuals: Include bar charts, line graphs, and heatmaps to depict key findings. Visuals are included in the project report and presentation.
+* Visuals: Includes Geograhical Interactive Maps(.HTML), bar charts, line graphs, and heatmaps to depict key findings. Visuals are included in the project report and presentation.
 
 Assumptions:
 * When the period of study was done between 2 years (i.e. 2022-2023), it is assumed that the results of that particular study corresponds to 12 months and it is a reflection of the latest year (2023).__
@@ -86,7 +86,7 @@ Future Work Scope:
 * Please, refer to the word file to get the summary of the findings
 
 Folder Structure:
-* Output: Contains all exported datasets and analysis results.
+* Output: Contains all exported datasets and analysis results and visual Files.
 * Engineering_ERD: ERD for schema and SQL database export.
 * Project_Analysis: Findings and summary documents.
 
